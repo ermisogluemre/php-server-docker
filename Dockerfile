@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-MAINTAINER Dan Pupius <dan@pupi.us>
 
 RUN apt-get update
 RUN apt-get -y install software-properties-common
